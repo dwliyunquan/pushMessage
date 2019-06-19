@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Android.Message", "Android.Message\Android.Message.csproj", "{ED1F43E3-61ED-4002-934D-2D68D48EA48B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Android.Huawei.Push", "Android.Huawei.Push\Android.Huawei.Push.csproj", "{AB2E900A-B923-41B2-8971-94B987A93A79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Android.Test", "Android.Test\Android.Test.csproj", "{8057561B-F791-471A-8771-40E99FD1ECDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.XiaoMi.Push", "Android.XiaoMi.Push\Android.XiaoMi.Push.csproj", "{EBEDAF40-62ED-440F-9E6F-E5A3C4D01CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1F43E3-61ED-4002-934D-2D68D48EA48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1F43E3-61ED-4002-934D-2D68D48EA48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1F43E3-61ED-4002-934D-2D68D48EA48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1F43E3-61ED-4002-934D-2D68D48EA48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2E900A-B923-41B2-8971-94B987A93A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2E900A-B923-41B2-8971-94B987A93A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2E900A-B923-41B2-8971-94B987A93A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2E900A-B923-41B2-8971-94B987A93A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8057561B-F791-471A-8771-40E99FD1ECDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8057561B-F791-471A-8771-40E99FD1ECDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8057561B-F791-471A-8771-40E99FD1ECDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8057561B-F791-471A-8771-40E99FD1ECDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEDAF40-62ED-440F-9E6F-E5A3C4D01CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEDAF40-62ED-440F-9E6F-E5A3C4D01CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEDAF40-62ED-440F-9E6F-E5A3C4D01CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEDAF40-62ED-440F-9E6F-E5A3C4D01CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3A7D67-EC1F-4D27-8CA2-627661146B96}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chrisloi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Android.Message\\Android.Message.csproj
+		SccProjectName1 = Android.Message
+		SccLocalPath1 = Android.Message
+		SccProjectUniqueName2 = Android.Huawei.Push\\Android.Huawei.Push.csproj
+		SccProjectName2 = Android.Huawei.Push
+		SccLocalPath2 = Android.Huawei.Push
+		SccProjectUniqueName3 = Android.Test\\Android.Test.csproj
+		SccProjectName3 = Android.Test
+		SccLocalPath3 = Android.Test
+		SccProjectUniqueName4 = Android.XiaoMi.Push\\Android.XiaoMi.Push.csproj
+		SccProjectName4 = Android.XiaoMi.Push
+		SccLocalPath4 = Android.XiaoMi.Push
+	EndGlobalSection
+EndGlobal

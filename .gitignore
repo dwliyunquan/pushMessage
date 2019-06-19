@@ -3,3 +3,11 @@
 ################################################################################
 
 /Android.Huawei.Push/bin/Debug/netcoreapp2.1
+/Android.Huawei.Push/obj
+/Android.Message/bin/Debug/netcoreapp2.1
+/Android.Message/obj
+/Android.Test/bin/Debug/netcoreapp2.1
+/Android.Test/obj
+/Android.XiaoMi.Push/bin/Debug/netcoreapp2.1
+/Android.XiaoMi.Push/obj
+/.vs/Android.Message/v15
